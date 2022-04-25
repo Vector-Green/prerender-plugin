@@ -1,0 +1,17 @@
+{
+  "name": "prerender-webpack-plugin",
+  "version": "1.0.0",
+  "description": "webpack 5 prerender plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prerender",
+    "spa",
+    "webpack",
+    "plugin"
+  ],
+  "author": "Vector Green",
+  "license": "MIT"
+}
