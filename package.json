@@ -1,11 +1,11 @@
 {
-  "name": "prerender-webpack-plugin",
+  "name": "prerender-plugin",
   "version": "1.0.0",
   "description": "webpack 5 prerender plugin",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Vector-Green/add-asset-plugin.git"
+    "url": "https://github.com/Vector-Green/prerender-plugin.git"
   },
   "keywords": [
     "prerender",
