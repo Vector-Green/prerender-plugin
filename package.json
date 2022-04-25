@@ -1,5 +1,5 @@
 {
-  "name": "prerender-plugin",
+  "name": "prerender-webpack5-plugin",
   "version": "1.0.0",
   "description": "webpack 5 prerender plugin",
   "main": "index.js",
